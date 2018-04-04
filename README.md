@@ -15,6 +15,7 @@ ch-5
 
 Release branch hotfix1 and 2
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 test merge1
@@ -26,3 +27,14 @@ Test ch-1
 Test ch-1
 Test ch-2
 >>>>>>> changes for testing in test branch
+=======
+Test ch-1
+Test ch-1
+
+test merge1
+test merge2
+
+Test ch-2
+Test ch-2
+
+>>>>>>> changes  to test merge
