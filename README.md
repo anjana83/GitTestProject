@@ -16,3 +16,4 @@ ch-5
 Release branch hotfix1 and 2
 
 test merge1
+test merge2
